@@ -1,0 +1,30 @@
+{
+  "name": "mera-web-platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashafranchi/mera-web-platform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashafranchi/mera-web-platform/issues"
+  },
+  "homepage": "https://github.com/ashafranchi/mera-web-platform#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.9.3",
+    "bootstrap": "^5.0.0-beta3",
+    "gatsby": "^3.5.0",
+    "gatsby-plugin-google-fonts-v2": "^1.0.0",
+    "gatsby-source-filesystem": "^3.5.0",
+    "ini": "^1.3.8",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "^17.0.2"
+  }
+}
